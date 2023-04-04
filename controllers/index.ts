@@ -5,7 +5,7 @@ import clientController from './client';
 
 const router = new AwsProxyRouter();
 
-// using createControlle approach
+// using createController approach
 router.use('/health/:parameter/status/:optional?', HealthController);
 
 // using decorators approach
