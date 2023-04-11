@@ -24,7 +24,7 @@
     "http-errors": "^2.0.0",
     "lodash": "^4.17.21",
     "path-to-regexp": "^6.2.1",
-    "simple-lambda-api-router": "^1.1.7"
+    "simple-lambda-api-router": "1.5.3"
   },
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
